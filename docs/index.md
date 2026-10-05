@@ -1,5 +1,14 @@
-# Bienvenidos al Portal de Documentación del Sistema
+# Portal Web de Documentación
 
-Este sitio web reúne las especificaciones técnicas, guías de despliegue, manuales de usuario y estándares de seguridad para el mantenimiento del software.
+## 1. Descripción del Proyecto
+El **Sistema de Gestión de Inventario** permite a la empresa *TechStore* administrar productos, controlar el stock en tiempo real y gestionar ventas de forma eficiente.
 
-Navega a través del menú lateral para acceder a cada uno de los módulos de la aplicación.
+## 2. Requisitos del Sistema
+- [x] Python 3.10 o superior instalado
+- [x] Base de Datos MySQL configurada
+- [x] Documentación técnica completada
+
+## 3. Módulos del Sistema
+| Módulo | Descripción | Estado |
+| --- | --- | --- |
+| Autenticación | Control de acceso y roles | Completado |

@@ -37,3 +37,4 @@ def verificar_stock(cantidad):
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Especificación de API](docs/api_endpoints.md)
 - [Repositorio Oficial en GitHub](https://github.com/gaps3600/documentacion-sistema-v1-)
+- [Guía de Usuario UX](docs/manual_usuario_ux.md)

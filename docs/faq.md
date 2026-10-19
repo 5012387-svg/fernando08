@@ -1,21 +1,32 @@
-# Preguntas Frecuentes (FAQ)
+### 1. ¿Qué es StudyMood?
 
-En esta sección encontrarás respuestas rápidas a las dudas más comunes sobre el uso de nuestra aplicación.
+Respuesta:
+StudyMood es una aplicación de apoyo al estudio que permite al estudiante organizar
+su tiempo mediante períodos de estudio y descanso.
 
-### ¿Cómo puedo restablecer mi contraseña si la he olvidado?
-Para recuperar tu acceso, ve a la pantalla de inicio de sesión y toca el enlace "¿Olvidaste tu contraseña?".
+### 2. ¿Cómo se configura una sesión de estudio?
 
-### ¿Cuáles son los requisitos mínimos para ejecutar esta aplicación?
-Se requiere un dispositivo con conexión a Internet y un navegador web moderno (Chrome, Edge o Safari) o sistema Android 8.0+.
+Respuesta:
+El estudiante establece la cantidad de tiempo que desea estudiar y la cantidad de
+tiempo que desea descansar. Después puede iniciar la sesión.
 
----
+### 3. ¿Qué sucede cuando termina una sesión de estudio?
 
-## Videotutorial de Demostración del Sistema
+Respuesta:
+Cuando finaliza el tiempo de estudio, StudyMood presenta un cuestionario
+relacionado con lo estudiado para comprobar el aprendizaje del estudiante.
 
-Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo:
+### 4. ¿Para qué sirve el cuestionario de StudyMood?
 
-<video src="videos/videotutorial_proyecto.mp4" controls width="100%">
-  Tu navegador no soporta la reproducción de video HTML5.
-</video>
+Respuesta:
+Sirve para comprobar si el estudiante comprendió y recuerda lo que estudió durante
+la sesión.
 
-[Haz clic aquí para descargar el video](videos/videotutorial_proyecto.mp4)
+### 5. ¿Qué beneficios ofrece StudyMood?
+
+Respuesta:
+Ayuda a organizar el tiempo de estudio y descanso, permite realizar sesiones de
+estudio estructuradas y ayuda al estudiante a comprobar sus conocimientos
+mediante cuestionarios.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/miCfQekehN4?si=DLskyClXaXldBNjb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

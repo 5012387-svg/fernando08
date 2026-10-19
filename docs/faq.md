@@ -29,4 +29,8 @@ Ayuda a organizar el tiempo de estudio y descanso, permite realizar sesiones de
 estudio estructuradas y ayuda al estudiante a comprobar sus conocimientos
 mediante cuestionarios.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/miCfQekehN4?si=DLskyClXaXldBNjb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Videotutorial de Demostración del Sistema
+
+[Haz clic aquí para ver el videotutorial en YouTube](https://youtu.be/miCfQekehN4?si=X7LJGbFxxkLymKB5)
+
+<iframe width="100%" height="315" src="https://youtu.be/miCfQekehN4?si=X7LJGbFxxkLymKB5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
